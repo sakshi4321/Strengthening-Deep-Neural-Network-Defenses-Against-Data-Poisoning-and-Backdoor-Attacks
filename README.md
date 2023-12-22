@@ -2,6 +2,7 @@
 
 ## Title: Strengthening Deep Neural Network Defenses Against Data Poisoning and Backdoor Attacks
 
+Team Members: Vamsi Krishna Bunga (vb2279), Sakshi Kulkarni (smk8939), Amrutha Patil (ap7982), Charmee Mehta (cm6389)
 
 NOTE: We used Kaggle notebook instead of google colab because of its resource restrictions. <br> <br> 
 
