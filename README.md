@@ -18,3 +18,8 @@ This project focuses on addressing the susceptibility of deep neural networks (D
 
 Google Drive link: https://drive.google.com/drive/folders/1N0rXiI9aMYqwwyi4cCtIw1zh3meuwLf6?usp=share_link
 
+## Team: <br>
+Sakshi Kulkarni (smk8939)
+Amrutha Patil (ap7982)
+Vamsi Krishna Bunga (vb2279)
+Charmee Mehta (cm6389)
